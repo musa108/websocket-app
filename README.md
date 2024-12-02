@@ -1,16 +1,15 @@
 WebSocket-React App with Redux Integration
 This project demonstrates a WebSocket-based application with a React frontend and a WebSocket server backend. The app connects to the WebSocket server, listens to five distinct events, and uses Redux for managing the state of messages received.
 
-Table of Contents
-Features
-Technologies Used
-Folder Structure
-Setup Instructions
-Frontend Setup
-Backend Setup
-Usage
-Deployment
-Features
+## Table of Contents
+## Features
+## Technologies Used
+## Folder Structure
+## Setup Instructions
+## Frontend Setup
+## Backend Setup
+## Deployment
+- Features
 Real-time WebSocket communication.
 Listens to five distinct WebSocket events (event1, event2, event3, event4, event5).
 Redux integration for managing event-driven state updates.
@@ -23,8 +22,8 @@ WebSocket: For real-time communication.
 Backend
 Node.js: For running the WebSocket server.
 ws: A WebSocket library for the server.
-Folder Structure
-csharp
+
+- Folder Structure
 Copy code
 websocet-project/
 ├── websocket-client/             # React app (frontend)
